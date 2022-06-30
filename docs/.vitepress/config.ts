@@ -15,10 +15,10 @@ export default defineConfig({
       copyright: "Copyright © 2022-present Tick Wu and Alex Zhang",
     },
     socialLinks: [
-      { icon: "github", link: "https://github.com/zxTick/zt-form-docs" },
+      { icon: "github", link: "https://github.com/zxTick/ztvitest-docs" },
     ],
     editLink: {
-      pattern: "https://github.com/zxTick/zt-form-docs/edit/main/docs/:path",
+      pattern: "https://github.com/zxTick/ztvitest-docs/edit/main/docs/:path",
       text: "Edit this page on GitHub",
     },
     sidebar: [
